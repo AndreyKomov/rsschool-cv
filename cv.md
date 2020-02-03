@@ -9,6 +9,6 @@
 
 -----
 
-
 ###Education
+* Master Degree: design engineer, Belarusian National Technical University - 2009.
 * Master Degree: 
