@@ -1,2 +1,2 @@
 
-[cv](https://github.com/AndreyKomov/rsschool-cv/cv]
+[cv](https://github.com/AndreyKomov/rsschool-cv/cv)
