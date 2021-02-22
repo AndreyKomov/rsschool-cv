@@ -38,7 +38,7 @@ To cut a long story short,  I am open to any job opportunity, including internsh
 
 ### Education
 
-* Rolling Scope School (JS/FE) - 2020 [Certificate](https://app.rs.school/certificate/natj9q4i)
+* Rolling Scopes School (JS/FE) - 2020 [Certificate](https://app.rs.school/certificate/natj9q4i)
 * HTML Academy (HTML, CSS) - 2019
 * Bauman Moscow State Technical University (degree in Engineering) - 2015
 * Belarusian National Technical University (degree in Engineering) - 2009
