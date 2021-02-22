@@ -11,31 +11,40 @@
 
 ### Summary
 
-Html Academy introduced Front-End Development to me. I became interested in practical tasks and have begun to read additional materials. I have successfully performed number of tasks. It has really motivated me to proceed. My experience in engineering helps me to examine the objectives and calculate the most effective method of achieving them. I think I’m learning fast, and I also feel that I can be considered a hard-working and open-minded student.
-The most important thing for me is practice: that's why the possibility to code non-stop is much more attractive to me than reading any book from my shelf. At present my goal is to get practical skills for the purpose to get a junior developer position. I think that time and practice are keys to success.
+I am a self taught Junior JS Developer. Twelve years ago I graduated from the university and got my degree in engineering. But it did not suit me. Not properly. I wanted more. Html Academy and RS School have jointly introduced front-end development to me. Dynamic interface, diverse accessibility, improved performance, speedy development have taught me to distinguish a malfunctioning, poor site from a well designed, flexible, and user-friendly site.
+
+The possibility to be part of it inspires me a lot. I am capable of making a success of my prospective career as a software engineer. I am hard-working and open-minded, I have no troubles in working under pressure and meeting deadlines. I think it is what we have in common with experienced JS developers.
+
+To cut a long story short,  I am open to any job opportunity, including internship.
 
 -----
 
 ### Skills
 
 * Git
-* Basic knowledge of HTML, CSS, Java Script
+* HTML, CSS, JS
+* Webpack
 
 -----
 
-### Code examples
+### Portfolio (RS School tasks)
 
-* [GitHub](https://github.com/AndreyKomov)
+* [Duck Hunt (ranked sixth among the Hundred Best RS Clone Tasks of 2021 )](https://nimlu-bot-rsclone.netlify.app/)
+* [English for Kids](https://rolling-scopes-school.github.io/andreykomov-JS2020Q3/english-for-kids/)
+* [Calculator](https://rolling-scopes-school.github.io/andreykomov-JS2020Q3/calculator)
+* [Presentation](https://youtu.be/jTczkOcSwho)
 
 -----
 
 ### Education
-* Design engineer, Belarusian National Technical University - 2009.
-* Design engineer, Bauman Moscow State Technical University - 2015.
-* HTML Academy, HTML, CSS - 2019.
+
+* Rolling Scope School (JS/FE) - 2020 [Certificate](https://app.rs.school/certificate/natj9q4i)
+* HTML Academy (HTML, CSS) - 2019
+* Bauman Moscow State Technical University (degree in Engineering) - 2015
+* Belarusian National Technical University (degree in Engineering) - 2009
 
 -----
 
 ### English
 
-My English level is A2.
+* A2
